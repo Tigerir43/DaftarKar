@@ -636,13 +636,13 @@ Daftar Setup 1.0.0.exe
 |---|---|
 | نام برنامه | دفتر کار |
 | نسخه | `1.1.2` |
-| Version code | `1001001` |
+| Version code | `1001002` |
 | Package ID | `ir.daftar.mobile` |
 | حداقل نسخه اندروید | Android 7.0 (API 24) |
 | Target / Compile SDK | `37` |
 | حجم APK | `22,833,011` بایت (حدود 21.8 MB) |
 | امضا | گواهی Release اختصاصی Daftar |
-| SHA-256 فایل | `1d2130591dc441d68e7bc6932050f4285880b572d293dff08b04d1f2f354da9d` |
+| SHA-256 فایل | `10672286476998883264b69060ae3985206ef72797ea06bf5ac8d0bc219079ff` |
 
 ## دریافت و نصب اندروید
 
